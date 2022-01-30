@@ -2,8 +2,8 @@ import {
   Button,
   Card,
   CardActions,
-  CardContent,
   CardMedia,
+  CardContent,
   Container,
   Grid,
   Typography
@@ -31,7 +31,7 @@ export default function Home() {
   return (
   <TemplateDefault>
     <Container maxWidth="sm" className={classes.container}>
-      <Typography component="h1" variant="h2" align="center">
+      <Typography component="h1" variant="h2" align="center"> 
         Meus Anúncios
       </Typography>
       <Button variant="contained" color="primary" className={classes.buttonAdd}>
