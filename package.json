@@ -16,6 +16,7 @@
     "css-baseline": "^1.2.11",
     "formik": "^2.2.9",
     "install": "^0.13.0",
+    "mongoose": "^6.2.0",
     "next": "12.0.9",
     "node-modules": "^1.0.1",
     "react": "17.0.2",
